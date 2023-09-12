@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using namespace std;bhagyashri
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 void average();
 void circum();
