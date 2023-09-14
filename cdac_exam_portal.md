@@ -1,4 +1,21 @@
-# Functional Requirement
+# CDAC Exam Portal
+
+## Document:
+System Requirement Specification Document
+
+## Title:
+System Reqruiement Spefication for CDAC Exam Portal
+
+## Team: 
+Developers, Database administrators,Quality Assurance testers
+
+## Objective (Purpose):
+The objective of the project is to design and develop a robust online exam conduct system that allows instructors to create , schedule and manage exams whilw providing students with secure and user friendly platform to take exams remotely
+
+## Scope:
+This allows to students who have registered for cdac enterance to appeear for online assesment
+
+# Functional Requirements
 ## User Registration and Authentication:
 User should be able to create account and authenticate using unique username
 provide password and account recovery procedures. 
@@ -49,9 +66,9 @@ The exam portal should be able to handle a growing number of users and data with
 The portal be available with minimal downtime for maintaince.The portal should operational ewhen needed without unexpected downtime or description.
 ## Compatibility:
 the portal should work seamlessly accross diffrent web browsers and devices,compatibility ensures that a wider range of ausers can access the platform , which is crucial for conducting exam succesfuklly.
-## Reporting &Analysis:
+## Reporting & Analysis:
 The portal should provide administrators with robust ereporting and analysis tools to track student performance.
 ## Backup & Recovery:
 Regular data backups  and a reliable disaster recovery plan should be in place to ensure that data is not lost in case of unexpected events.
-## Maintaince:
+## Maintainance:
 Portal should be designed & built to be easily maintanable over time.This imnclude regular updates ,hug fixes & enhancements to ensure it remains reliable & up to date.
