@@ -1,0 +1,16 @@
+# User Story 
+- As a student, I need to register myself with email id and password, so that I can further authenticate my account.
+- As a student, I want to be logged into my dashboard as soon as I sign in using my unique user id and password.
+- As a student, I want to upload my profile photo and my personal informattion like mobile number.
+- As a student, I might need to update my information in my profile, so that I can keep my profile updated.
+- As a student, I want to get prior information for the upcoming exams(most importantly date and time), so that I have enough time to prepare.
+- As a student, I need to be notified on mail about any update on exams schedule or any other notice placed by the cdac, so that I can be up-to-date and ensure that I dont miss any important circular or notice.
+- As a student, I want the user-interface to be simple, so that I can easily navigate through the portal.
+- As a student, I want the exam to have timer option, so that I am able to manage my time while attending the exam.
+- As a student, I want the exam page should have to option to navigate between the questions, so that I can attend the questions according to my priority.
+- As a student, I want the exam page to have option to mark the questions for reviews, so that I can review them at the last.
+- As a student, I want the exam page to red flag the questions which left unattempted, so that I have the idea to manage my time.
+- As a student, I want the exam page to have support option, so that I can ask for help for any issues faced while attending the exam.
+- As a student, I need to see my result after completion of assessment.
+- As a teacher, I need to login using email id and password.
+- As a teacher, I need to be taken to my dashboard upon login.
