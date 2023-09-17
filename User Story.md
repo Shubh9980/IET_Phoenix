@@ -14,3 +14,10 @@
 - As a student, I need to see my result after completion of assessment.
 - As a teacher, I need to login using email id and password.
 - As a teacher, I need to be taken to my dashboard upon login.
+- As a teacher, I need to create different types of assessments, like multiple choice questions, quizzes, assignments, etc.
+- As a teacher, I need to add, update or delete questions from the assessment according to need.
+- As a teacher, I need to schedule an exam for the students.
+- As a teacher, I need to pass a notice to the students through notices or updates section present on the portal who everyone can access.
+- As a teacher, I need to access each student details like personal and exam results, so that I can monitor each and every student's progress.
+- As a teacher, I want to monitor students while attending the assessment by their webcam and mic, so that cheating can be prevented.
+- As a teacher, I want to give feedback, so that the portal have the scope of improvement. 
