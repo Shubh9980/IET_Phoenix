@@ -18,7 +18,7 @@
 - As a teacher, I need to add, update or delete questions from the assessment according to need.
 - As a teacher, I need to store the assessments created for future references and it can also reduce the effort of re-uploading the same questions again and again.
 - As a teacher, I need to schedule an exam for the students.
-- As a teacher, I need to pass a notice to the students through notices or updates section present on the portal who everyone can access.
+- As a teacher, I need to pass a notice to the students through notices or updates section present on the portal where everyone can see the message.
 - As a teacher, I need to access each student details like personal and exam results, so that I can monitor each and every student's progress.
 - As a teacher, I want to monitor students while attending the assessment by their webcam and mic, so that cheating can be prevented.
 - As a teacher, I want to give feedback, so that the portal always have the scope of improvement. 
